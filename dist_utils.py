@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 # NOTE: This file is auto-generated - DO NOT EDIT MANUALLY
-#       Instead copy from https://github.com/StackStorm/st2/blob/master/scripts/dist_utils.py
+#       Instead copy from https://github.com/Coditation/st2/blob/master/scripts/dist_utils.py
 
 # Copyright 2019 Extreme Networks, Inc.
 #
